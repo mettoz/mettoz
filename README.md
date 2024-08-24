@@ -1,4 +1,4 @@
-<h2 align="left">🇹🇷<br>Selam👋! Ben mettoz <br>17 yaşındayım EA öğrencisiyim <br>Yazıcak başka bir şey yok :D<br><br>🇩🇪<br>Hallo👋! Ich bin Mettoz <br>Ich bin 17 Jahre alt und EA Student. <br>Es gibt nichts anderes zu schreiben :D</h2>
+<h2 align="left">🇹🇷<br>Selam👋! Ben mettoz <br>17 yaşındayım EA öğrencisiyim. <br>Yazıcak başka bir şey yok :D<br><br>🇩🇪<br>Hallo👋! Ich bin Mettoz <br>Ich bin 17 Jahre alt und EA Student. <br>Es gibt nichts anderes zu schreiben :D</h2>
 
 ###
 
